@@ -30,6 +30,12 @@ Proof that I actually coded this thing (and didn’t just dream it).
 Play with it here 👉 [CodePen Link](https://codepen.io/editor/ancryne/pen/019fe28f-4368-73da-bf41-32560394c8d9) [ Hit ❤️ ]
 
 ---
+## 📚 Resources Used
+- [CSS Scan](https://getcssscan.com/css-box-shadow-examples) => for CSS box Shadow examples 
+- [Webgradients](https://webgradients.com/gradient/015-mean-fruit) => for CSS linea background inspiration  
+- Random late-night Googling + trial & error 😆
+
+---
 
 ## Project Files 📂
 ```
