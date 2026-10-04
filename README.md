@@ -15,7 +15,7 @@ Yes, it’s a calculator. No, it won’t solve world hunger… but it *will* add
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 Proof that I actually coded this thing (and didn’t just dream it).
 
 ### Development Chaos
@@ -26,18 +26,18 @@ Proof that I actually coded this thing (and didn’t just dream it).
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 Play with it here 👉 [CodePen Link](https://codepen.io/editor/ancryne/pen/019fe28f-4368-73da-bf41-32560394c8d9) [ Hit ❤️ ]
 
 ---
-## 📚 Resources Used
+## Resources Used
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples) => for CSS box Shadow examples 
 - [Webgradients](https://webgradients.com/gradient/015-mean-fruit) => for CSS linea background inspiration  
 - Random late-night Googling + trial & error 😆
 
 ---
 
-## Project Files 📂
+## Project Files
 ```
 Calculator
 ├─ images
@@ -77,7 +77,7 @@ I used to build and learn lots of things but never shared them.
 Now I’m flipping the script from this project onward, I’ll share whatever I build and learn here.  
 So buckle up, GitHub, you’re about to see some wild experiments.  
 
-Built with ♥ by **Ancryne** ✨
+Built with ♥ by **Ancryne**
 
 
 
